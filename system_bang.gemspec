@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = 'system_bang'
   s.version     = '0.5.0'
